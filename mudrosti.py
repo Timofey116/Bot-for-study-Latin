@@ -1,0 +1,1 @@
+file = ["latin mudrost.jpg", "regis.jpg"]
